@@ -1,0 +1,17 @@
+{
+    "name": "yileus/laravel-douyin-master",
+    "description": "tool for douyin api",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yileus\\LaravelDouyinMaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "huangzhou",
+            "email": "huangzhou@cyek.com"
+        }
+    ],
+    "require": {}
+}
