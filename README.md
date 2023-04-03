@@ -1,11 +1,11 @@
 # LaravelDouyin
 
-抖音开放平台SDK
+抖音API工具，转发自codesinging。由于该作者相关扩展停止发布，所以将其源码重新发布，如有侵权请联系yileus62@qq.com，侵删。
 
 ## Installation
 
 ```shell
-$ composer require codesinging/laravel-douyin
+$ composer require yileus/laravel-douyin-master
 ```
 
 ## Usage
