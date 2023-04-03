@@ -4,9 +4,9 @@
  * Github: https://github.com/codesinging
  */
 
-namespace CodeSinging\LaravelDouyin;
+namespace Yileus\LaravelDouyinMaster;
 
-use CodeSinging\LaravelDouyin\OpenPlatform\Application as OpenPlatformApplication;
+use Yileus\LaravelDouyinMaster\OpenPlatform\Application as OpenPlatformApplication;
 
 /**
  * @method static string version()

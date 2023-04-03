@@ -4,7 +4,7 @@
  * Github: https://github.com/codesinging
  */
 
-namespace CodeSinging\LaravelDouyin\OpenPlatform;
+namespace Yileus\LaravelDouyinMaster\OpenPlatform;
 
 class BaseService
 {

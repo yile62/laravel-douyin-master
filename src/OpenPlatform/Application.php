@@ -4,10 +4,10 @@
  * Github: https://github.com/codesinging
  */
 
-namespace CodeSinging\LaravelDouyin\OpenPlatform;
+namespace Yileus\LaravelDouyinMaster\OpenPlatform;
 
-use CodeSinging\LaravelDouyin\OpenPlatform\Auth\ClientToken;
-use CodeSinging\LaravelDouyin\OpenPlatform\Auth\ConnectCode;
+use Yileus\LaravelDouyinMaster\OpenPlatform\Auth\ClientToken;
+use Yileus\LaravelDouyinMaster\OpenPlatform\Auth\ConnectCode;
 
 class Application
 {

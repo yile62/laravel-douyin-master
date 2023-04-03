@@ -4,10 +4,10 @@
  * Github: https://github.com/codesinging
  */
 
-namespace CodeSinging\LaravelDouyin\OpenPlatform\Auth;
+namespace Yileus\LaravelDouyinMaster\OpenPlatform\Auth;
 
-use CodeSinging\LaravelDouyin\Exceptions\Exception;
-use CodeSinging\LaravelDouyin\OpenPlatform\BaseService;
+use Yileus\LaravelDouyinMaster\Exceptions\Exception;
+use Yileus\LaravelDouyinMaster\OpenPlatform\BaseService;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Http;
 

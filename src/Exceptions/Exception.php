@@ -4,7 +4,7 @@
  * Github: https://github.com/codesinging
  */
 
-namespace CodeSinging\LaravelDouyin\Exceptions;
+namespace Yileus\LaravelDouyinMaster\Exceptions;
 
 class Exception extends \Exception
 {

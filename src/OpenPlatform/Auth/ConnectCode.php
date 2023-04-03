@@ -4,9 +4,9 @@
  * Github: https://github.com/codesinging
  */
 
-namespace CodeSinging\LaravelDouyin\OpenPlatform\Auth;
+namespace Yileus\LaravelDouyinMaster\OpenPlatform\Auth;
 
-use CodeSinging\LaravelDouyin\OpenPlatform\BaseService;
+use Yileus\LaravelDouyinMaster\OpenPlatform\BaseService;
 
 class ConnectCode extends BaseService
 {

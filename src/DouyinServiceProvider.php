@@ -4,7 +4,7 @@
  * Github: https://github.com/codesinging
  */
 
-namespace CodeSinging\LaravelDouyin;
+namespace Yileus\LaravelDouyinMaster;
 
 use Illuminate\Support\ServiceProvider;
 
