@@ -1,5 +1,5 @@
 {
-    "name": "yileus/laravel-douyin-master",
+    "name": "yileus/laravel-douyin",
     "description": "tool for douyin api",
     "type": "library",
     "autoload": {
